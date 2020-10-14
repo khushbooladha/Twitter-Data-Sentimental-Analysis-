@@ -1,2 +1,1 @@
-# Twitter-Data-Sentimental-Analysis-
-Twitter Data Sentimental Analysis using Hadoop
+# Twitter-Data-Sentimental-Analysis-using-Hadoop
